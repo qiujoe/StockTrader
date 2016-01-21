@@ -1,2 +1,2 @@
 # StockTrader
-由于开源导致交易接口升级。新项目将移除web交易接口和同花顺交易接口。需要交易接口，进群Stock Trader 276552879和群主或管理员联系
+项目升级为https://github.com/superquanter/quanter
